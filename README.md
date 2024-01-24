@@ -37,7 +37,8 @@ This Clinic Patient Management System is a web-based application developed in PH
 
 ## Dashboard :
 <img src="./PHOTOS/b.png" alt="Image Alt Text" height="350"/>
-*Caption: Dashboard of the Clinic Patient Management System*
+
+### other Snaps :
 
 
 
