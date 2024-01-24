@@ -1,12 +1,8 @@
-# Clinic-managment-system
+
 
 # Clinic Patient Management System
 
-![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
-![GitHub Issues](https://img.shields.io/github/issues/your-username/clinic-patient-management-system.svg)
-![GitHub Stars](https://img.shields.io/github/stars/your-username/clinic-patient-management-system.svg)
-![GitHub Forks](https://img.shields.io/github/forks/your-username/clinic-patient-management-system.svg)
-
+[![PHP Version](https://img.shields.io/badge/PHP-%5E7.4-blueviolet)](https://www.php.net/releases/) [![MySQL](https://img.shields.io/badge/MySQL-8.0-blue.svg)](https://www.mysql.com/)  ![HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-blue)
 ## Introduction
 
 This Clinic Patient Management System is a web-based application developed in PHP and MySQL Database. The main purpose is to provide an online and automated platform for managing data for Medical clinics. The system allows easy storage, retrieval, and management of patient visits and prescription records. It features a user-friendly interface with Bootstrap Framework and AdminLTE Template, enhancing the user experience.
@@ -48,5 +44,5 @@ This Clinic Patient Management System is a web-based application developed in PH
 
 
 
-### Admin Default Access
+
 
