@@ -43,6 +43,7 @@ This Clinic Patient Management System is a web-based application developed in PH
 <img src="./PHOTOS/f.png" alt="Image Alt Text" height="140"/><img src="./PHOTOS/g.png" alt="Image Alt Text" height="140"/><img src="./PHOTOS/h.png" alt="Image Alt Text" height="140"/>
 
 
-
+## Conclusion : 
+The Clinic Patient Management System is a secure software accessible only to clinic management. It helps manage medicines, patient records, and prescriptions. The system records patient visit details like blood pressure and weight, allowing easy retrieval of patient history. It also generates PDF reports for patient visits and diseases, making record-keeping efficient and organized.
 
 
