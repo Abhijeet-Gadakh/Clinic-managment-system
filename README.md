@@ -39,7 +39,8 @@ This Clinic Patient Management System is a web-based application developed in PH
 <img src="./PHOTOS/b.png" alt="Image Alt Text" height="350"/>
 
 ### other Snaps :
-
+<img src="./PHOTOS/e.png" alt="Image Alt Text" height="140"/><img src="./PHOTOS/c.png" alt="Image Alt Text" height="140"/><img src="./PHOTOS/d.png" alt="Image Alt Text" height="140"/>
+<img src="./PHOTOS/f.png" alt="Image Alt Text" height="140"/><img src="./PHOTOS/g.png" alt="Image Alt Text" height="140"/><img src="./PHOTOS/h.png" alt="Image Alt Text" height="140"/>
 
 
 
