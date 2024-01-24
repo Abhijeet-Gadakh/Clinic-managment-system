@@ -15,11 +15,8 @@ This Clinic Patient Management System is a web-based application developed in PH
 - HTML
 - CSS
 - JavaScript
-- Ajax
 - jQuery
 - Bootstrap
-- Font Awesome
-- AdminLTE
 
 ## Features
 
