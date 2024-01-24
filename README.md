@@ -32,9 +32,10 @@ This Clinic Patient Management System is a web-based application developed in PH
 
 ## System Snapshots
 
+## Login Page :
 <img src="./PHOTOS/a.png" alt="Image Alt Text" height="350"/>
-*Caption: Clinic Patient Management System Login Page*
 
+## Dashboard :
 <img src="./PHOTOS/b.png" alt="Image Alt Text" height="350"/>
 *Caption: Dashboard of the Clinic Patient Management System*
 
